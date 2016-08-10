@@ -6,13 +6,13 @@
 //  Copyright © 2016 liee. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MainView.h"
 
-@interface ViewController ()
+@interface MainView ()
 
 @end
 
-@implementation ViewController
+@implementation MainView
 
 - (void)viewDidLoad {
     [super viewDidLoad];
